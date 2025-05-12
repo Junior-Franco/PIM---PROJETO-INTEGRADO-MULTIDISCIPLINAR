@@ -1,0 +1,29 @@
+{
+    "alunos": [
+        {
+            "nome": "pedro",
+            "senha_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "nota": 8.0
+        },
+        {
+            "nome": "mateus",
+            "senha_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "nota": 9.0
+        },
+        {
+            "nome": "lucas",
+            "senha_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "nota": 10.0
+        },
+        {
+            "nome": "marcos",
+            "senha_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "nota": 6.5
+        }
+    ],
+    "estatisticas": {
+        "media": 8.38,
+        "mediana": 8.5,
+        "moda": "Nenhuma"
+    }
+}
